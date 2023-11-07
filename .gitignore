@@ -1,0 +1,35 @@
+# Poetry specific files
+__pypackages__/
+.poetry/
+.venv/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Compiled Python files
+__pycache__/
+
+# Environment-specific files
+.env
+.env.*
+
+# Dependency files
+pyproject.toml
+poetry.lock
+
+# User-specific files
+*.log
+*.pot
+*.pyc
+*.swp
+
+# Other files/directories you may want to ignore (optional)
+data/
+config/
+
+# Ignore the database file if you're using a local database (e.g., SQLite)
+*.db
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/

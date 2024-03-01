@@ -5,7 +5,7 @@
 First clone the repository:
 
 ```
-git clone https://github.com/asifrahaman13/divyvyai-backend
+git clone https://github.com/asifrahaman13/mental-health-backend
 ```
 
 Next enter into the backend directory.
